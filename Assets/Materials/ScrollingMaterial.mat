@@ -68,7 +68,7 @@ Material:
     - _MySliderValue: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _ScrollXSpeed: 4.07
+    - _ScrollXSpeed: 2.74
     - _ScrollYSpeed: 1.17
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
