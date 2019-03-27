@@ -1,4 +1,4 @@
-﻿Shader "CookbookShaders/StandardDiffuse2"
+﻿Shader "CookbookShaders/StandardDiffuse3"
 {
 	Properties
 	{
