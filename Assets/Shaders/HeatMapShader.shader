@@ -26,7 +26,7 @@ Shader "CookbookShaders/HeatMapShader"
 		o.worldPos = mul(unity_ObjectToWorld, input.pos).xyz;
 		return o;
 		}
-		uniform int _Points_Length = 0;
+		uniform int _Points_Length = 20;
 		uniform float3 _Points[20];
 		// (x, y, z) = position
 		uniform float2 _Properties[20];
